@@ -11,10 +11,14 @@
             "id": "cc974e580134c81c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readme"
             }
           }
         ]
@@ -173,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79a2766eba2c30ea",
+  "active": "cc974e580134c81c",
   "lastOpenFiles": [
+    "readme.md",
     "create a link.md",
     "Welcome.md",
     "Christian_W/Research for Paper XY.md",
