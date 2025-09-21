@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"46695bea4a6fe2c8","type":"text","text":"Ich bin einfach nur Text","x":-400,"y":-100,"width":250,"height":60},
+		{"id":"3a55aade82106f03","type":"file","file":"Christian_W/Research for Paper XY.md","x":40,"y":-163,"width":400,"height":186}
+	],
+	"edges":[
+		{"id":"c122f7a05f0cc611","fromNode":"3a55aade82106f03","fromSide":"left","toNode":"46695bea4a6fe2c8","toSide":"right"}
+	]
+}
