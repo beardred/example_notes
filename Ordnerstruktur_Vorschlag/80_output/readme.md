@@ -1,0 +1,1 @@
+Hier werden alle exportierten Artefakte wie Reports, Poster, Folien etc abgelegt.
