@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordnerstruktur_Vorschlag/readme.md",
+                "file": "Christian_B/Ich bin eine Notiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "Ich bin eine Notiz"
             }
           }
         ]
@@ -179,8 +179,14 @@
   },
   "active": "cc974e580134c81c",
   "lastOpenFiles": [
-    "Ordnerstruktur_Vorschlag/90_external/readme.md",
+    "readme.md",
+    "Pictures/Christian_B/Logo.png",
+    "Max_M/Demo_Canvas.canvas",
+    "Christian_W/Research for Paper XY.md",
+    "Christian_B/Ich bin eine Notiz.md",
+    "Ordnerstruktur_Vorschlag/00_admin/rules.md",
     "Ordnerstruktur_Vorschlag/readme.md",
+    "Ordnerstruktur_Vorschlag/90_external/readme.md",
     "Ordnerstruktur_Vorschlag/80_output/readme.md",
     "Ordnerstruktur_Vorschlag/70_assets/readme.md",
     "Ordnerstruktur_Vorschlag/30_literature/readme.md",
@@ -203,15 +209,9 @@
     "Ordnerstruktur_Vorschlag/30_literature/notes",
     "Ordnerstruktur_Vorschlag/30_literature",
     "Ordnerstruktur_Vorschlag/00_admin/plugins.md",
-    "Ordnerstruktur_Vorschlag/00_admin/rules.md",
-    "readme.md",
     "create a link.md",
     "Welcome.md",
-    "Christian_W/Research for Paper XY.md",
-    "Pictures/Christian_B/Logo.png",
     "Pictures/Christian_B/Unbenannt.png",
-    "Max_M/Demo_Canvas.canvas",
-    "Christian_B/Ich bin eine Notiz.md",
     "2025-09-21.md",
     "Untitled.canvas"
   ]
